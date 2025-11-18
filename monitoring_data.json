@@ -1,0 +1,30 @@
+[
+  {
+    "time": "2025-11-12 21:23:34",
+    "hostname": "LAPTOP-1F97TC5N",
+    "cpu": 28.0,
+    "ram": 50.0,
+    "disk": 92.4
+  },
+  {
+    "time": "2025-11-12 21:51:58",
+    "hostname": "LAPTOP-1F97TC5N",
+    "cpu": 8.4,
+    "ram": 49.1,
+    "disk": 92.5
+  },
+  {
+    "time": "2025-11-12 21:54:04",
+    "hostname": "LAPTOP-1F97TC5N",
+    "cpu": 20.8,
+    "ram": 50.0,
+    "disk": 92.5
+  },
+  {
+    "time": "2025-11-13 00:03:33",
+    "hostname": "LAPTOP-1F97TC5N",
+    "cpu": 8.8,
+    "ram": 44.1,
+    "disk": 92.5
+  }
+]
